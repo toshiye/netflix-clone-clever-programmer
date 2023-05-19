@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Deployed App Link: https://netflix-clone-estudo.web.app/
+Deployed App Link: https://netflix-clone-estudo.web.app/ - Dead
 
 Youtube Video Link: https://www.youtube.com/watch?v=XtMThy8QKqU
